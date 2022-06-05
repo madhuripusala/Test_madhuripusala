@@ -1,0 +1,4 @@
+1) Excel in Java - https://medium.com/@swapnathati78/how-to-read-excel-file-in-java-selenium-projects-773abc6c5090
+
+2) Essential things for web scrapping
+https://medium.com/@nithilaraja07/essential-things-to-make-webscraping-easy-selenium-java-675b97736ac8
